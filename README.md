@@ -1,2 +1,3 @@
 # study-
-study repo
+study repo job purpose
+ 
